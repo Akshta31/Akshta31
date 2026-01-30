@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I'm Akshta 🚀 Full-Stack Developer | Building scalable web apps<br>💻 React • Java • Spring Boot • SQL, MongoDB, Node.js <br>🛠 Turning ideas into clean, functional code<br>🌱 Always learning, always building
+Hi, Akshta Here
+🚀 Full-Stack Developer | Building scalable web apps<br>💻 React • Java • Spring Boot • SQL, MongoDB, Node.js <br>🛠 Turning ideas into clean, functional code<br>🌱 Always learning, always building
 
 
 ## 🌐 Socials:
