@@ -1,8 +1,7 @@
 #  About Me:
 Hi, Akshta Here
 
-Software Engineer  
-<br> React • Java • Spring Boot • SQL, MongoDB, Node.js | MERN Stack <br>Turning ideas into clean, functional code<br> Always learning, always building
+Software Engineer  <br> React • Java • Spring Boot • SQL, MongoDB, Node.js | MERN Stack <br>Turning ideas into clean, functional code<br> Always learning, always building
 
 
 ## 🌐 Socials:
